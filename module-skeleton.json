@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-payroll-payments-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-payroll-payments",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_payroll_payments_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/payroll-payments.md",
+  "presentationPlan": "projects/accounting/flutter/payroll-payments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
